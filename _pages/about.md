@@ -16,7 +16,7 @@ redirect_from:
 
 ## Preprints
 
-${\small 1. {\bf Shitao~Li}, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, 2022, https://arxiv.org/abs/2206.04936.}$
+${\rm{\small 1. {\bf Shitao~Li}, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, 2022, https://arxiv.org/abs/2206.04936.}}$
 
 2. ${\bf Shitao~Li}$, Minjia Shi, Jon-Lark Kim, Characterization of optimal binary linear codes with one-dimensional hull, 2022, https://arxiv.org/abs/2206.04936. 
 
