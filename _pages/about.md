@@ -16,9 +16,11 @@ redirect_from:
 
 ## Preprints
 
-#### 1. Shitao Li, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, 2022, https://arxiv.org/abs/2206.04936.
-#### 2. Shitao Li, Minjia Shi, Jon-Lark Kim, Characterization of optimal binary linear codes with one-dimensional hull, 2022, https://arxiv.org/pdf/2211.02480.pdf. 
-#### 3. Shitao Li, Minjia Shi, Huizhou Liu, Optimal quaternary linear codes with one-dimensional Hermitian hull and the related EAQECCs, 2022, https://arxiv.org/abs/2211.11147.
+1. ${\bf Shitao~Li}$, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, 2022, https://arxiv.org/abs/2206.04936.
+2. ${\bf Shitao~Li}$, Minjia Shi, Jon-Lark Kim, Characterization of optimal binary linear codes with one-dimensional hull, 2022, https://arxiv.org/abs/2206.04936. 
+3. ${\bf Shitao~Li}$, Minjia Shi, Huizhou Liu, Optimal quaternary linear codes with one-dimensional Hermitian hull and the related EAQECCs, 2022, https://arxiv.org/abs/2211.11147.  
+4. ${\bf Shitao~Li}$, Minjia Shi, Characterization of Plotkin-optimal two-weight codes over finite chain rings and related applications, 2023, https://arxiv.org/abs/2305.08561.
+5. Minjia Shi, ${\bf Shitao~Li}$, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, 2023, https://arxiv.org/abs/2303.16729.
 
 ## Publication
 
