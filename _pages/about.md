@@ -37,4 +37,4 @@ E-mail: lishitao0216@163.com
 4. Minjia Shi, ${\bf {\small Shitao~Li}}$, Jon-Lark Kim, Two conjectures on the largest minimum distances of binary self-orthogonal codes with dimension 5, IEEE Transactions on Information Theory, 2023, doi: 10.1109/TIT.2023.3250718.  
 3. ${\bf {\small Shitao~Li}}$, Minjia Shi, Two infinite families of two-weight codes over $\mathbb{Z}_{2^m}$ , Journal of Applied Mathematics and Computing, 2023, 69(1): 201–218.  
 2. Minjia Shi, ${\bf {\small Shitao~Li}}$, Jon-Lark Kim, Patrick Solé, LCD and ACD codes over a noncommutative non-unital ring with four elements, Cryptography and Communications, 2022, 14(3): 627–640.  
-1. Minjia Shi, ${\bf {\small Shitao~Li}}$, Patrick Solé, $\mathbb{Z}_2\mathbb{Z}_4$-additive quasi-cyclic codes, IEEE Transactions on Information Theory, 2021, 67(11): 7232-7239.
+#### 1. Minjia Shi, Shitao Li, Patrick Solé, $\mathbb{Z}_2\mathbb{Z}_4$-additive quasi-cyclic codes, IEEE Transactions on Information Theory, 2021, 67(11): 7232-7239.
