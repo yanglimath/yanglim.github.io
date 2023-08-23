@@ -34,7 +34,7 @@ E-mail: lishitao0216@163.com
 2023
 
 #### 7. ${\color{black}Shitao~Li}$, Minjia Shi, Huizhou Liu, On Toeplitz codes of index $t$ and isometry codes, Discrete Mathematics, 2023, 346(9): 113484.  
-#### 6. ${\color{black}Shitao~Li}$, Minjia Shi, Juan Wang, An improved method for constructing formally self-dual codes with small hulls, Designs, Codes and Cryptography, 2023, https://doi.org/10.1007/s10623-023-01210-y.  
+#### 6. ${\color{black}Shitao~Li}$, Minjia Shi, Juan Wang, An improved method for constructing formally self-dual codes with small hulls, Designs, Codes and Cryptography, 2023, 91(7): 2563-2583.  
 #### 5. Minjia Shi, ${\color{black}Shitao~Li}$, Jon-Lark Kim, Patrick Solé, The adjacency codes of the first yellow graphs, to appear in Journal of Systems Science and Complexity.  
 #### 4. Minjia Shi, ${\color{black}Shitao~Li}$, Jon-Lark Kim, Two conjectures on the largest minimum distances of binary self-orthogonal codes with dimension 5, IEEE Transactions on Information Theory, 2023, doi: 10.1109/TIT.2023.3250718.  
 #### 3. ${\color{black}Shitao~Li}$, Minjia Shi, Two infinite families of two-weight codes over $\mathbb{Z}_{2^m}$ , Journal of Applied Mathematics and Computing, 2023, 69(1): 201–218.  
