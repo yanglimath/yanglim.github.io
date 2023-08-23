@@ -33,11 +33,13 @@ E-mail: lishitao0216@163.com
 
 2023
 
+#### 8. ${\color{black}Shitao~Li}$, Minjia Shi, Characterization and classication of binary linear codes with various hull dimensions from an improved mass formula, IEEE Transactions on Information Theory, 2023, doi: 10.1109/TIT.2023.3298379.  
 #### 7. ${\color{black}Shitao~Li}$, Minjia Shi, Huizhou Liu, On Toeplitz codes of index $t$ and isometry codes, Discrete Mathematics, 2023, 346(9): 113484.  
 #### 6. ${\color{black}Shitao~Li}$, Minjia Shi, Juan Wang, An improved method for constructing formally self-dual codes with small hulls, Designs, Codes and Cryptography, 2023, 91(7): 2563-2583.  
-#### 5. Minjia Shi, ${\color{black}Shitao~Li}$, Jon-Lark Kim, Patrick Solé, The adjacency codes of the first yellow graphs, Journal of Systems Science and Complexity, 2023, 36(4): 1757–1768.  
-#### 4. Minjia Shi, ${\color{black}Shitao~Li}$, Jon-Lark Kim, Two conjectures on the largest minimum distances of binary self-orthogonal codes with dimension 5, IEEE Transactions on Information Theory, 2023, 69(7): 4507-4512.  
-#### 3. ${\color{black}Shitao~Li}$, Minjia Shi, Two infinite families of two-weight codes over $\mathbb{Z}_{2^m}$, Journal of Applied Mathematics and Computing, 2023, 69(1): 201–218.  
+#### 5. ${\color{black}Shitao~Li}$, Minjia Shi, Two infinite families of two-weight codes over $\mathbb{Z}_{2^m}$, Journal of Applied Mathematics and Computing, 2023, 69(1): 201–218.  
+#### 4. Minjia Shi, ${\color{black}Shitao~Li}$, Jon-Lark Kim, Patrick Solé, The adjacency codes of the first yellow graphs, Journal of Systems Science and Complexity, 2023, 36(4): 1757–1768.  
+#### 3. Minjia Shi, ${\color{black}Shitao~Li}$, Jon-Lark Kim, Two conjectures on the largest minimum distances of binary self-orthogonal codes with dimension 5, IEEE Transactions on Information Theory, 2023, 69(7): 4507-4512.  
+
 
 2022
 
