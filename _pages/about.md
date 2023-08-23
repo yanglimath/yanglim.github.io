@@ -25,9 +25,13 @@ E-mail: lishitao0216@163.com
 2. ${\bf {\small Shitao~Li}}$, Minjia Shi, Jon-Lark Kim, Characterization of optimal binary linear codes with one-dimensional hull, 2022, https://arxiv.org/abs/2206.04936.  
 
 3. ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Optimal quaternary linear codes with one-dimensional Hermitian hull and the related EAQECCs, 2022, https://arxiv.org/abs/2211.11147.  
-4. ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization of Plotkin-optimal two-weight codes over finite chain rings and related applications, 2023, https://arxiv.org/abs/2305.08561.  
 
-5. Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, 2023, https://arxiv.org/abs/2303.16729.
+5. ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization of Plotkin-optimal two-weight codes over finite chain rings and related applications, 2023, https://arxiv.org/abs/2305.08561.  
+
+6. ${\bf {\small Shitao~Li}}$, Yang Li, Minjia Shi, Shixin Zhu, Characterization and mass formulas of symplectic self-orthogonal and LCD codes and their application, 2023, https://arxiv.org/abs/2308.06508.  
+
+7. Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, 2023, https://arxiv.org/abs/2303.16729.  
+
 
 ## Publication  
 
