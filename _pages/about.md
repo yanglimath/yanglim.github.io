@@ -45,8 +45,10 @@ E-mail: lishitao0216@163.com
  
 6. ${\bf {\small Shitao~Li}}$, Minjia Shi, Two infinite families of two-weight codes over $\mathbb{Z}_{2^m}$, Journal of Applied Mathematics and Computing, 2023, 69(1): 201–218.
  
-5. Minjia Shi, ${\bf {\small Shitao~Li}}$, Jon-Lark Kim, Patrick Solé, The adjacency codes of the first yellow graphs, Journal of Systems Science and Complexity, 2023, 36(4): 1757–1768.  
-4. Minjia Shi, ${\bf {\small Shitao~Li}}$, Jon-Lark Kim, Two conjectures on the largest minimum distances of binary self-orthogonal codes with dimension 5, IEEE Transactions on Information Theory, 2023, 69(7): 4507-4512.  
+5. Minjia Shi, ${\bf {\small Shitao~Li}}$, Jon-Lark Kim, Patrick Solé, The adjacency codes of the first yellow graphs, Journal of Systems Science and Complexity, 2023, 36(4): 1757–1768.
+ 
+4. Minjia Shi, ${\bf {\small Shitao~Li}}$, Jon-Lark Kim, Two conjectures on the largest minimum distances of binary self-orthogonal codes with dimension 5, IEEE Transactions on Information Theory, 2023, 69(7): 4507-4512.
+ 
 3. Yang Li, Yunfei Su, Shixin Zhu, ${\bf {\small Shitao~Li}}$, Minjia Shi, Several classes of Galois self-orthogonal MDS codes and related applications, Finite Fields and Their Applications, 2023, 91: 102267.  
 
 2022
