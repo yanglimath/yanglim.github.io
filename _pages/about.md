@@ -37,11 +37,11 @@ E-mail: lishitao0216@163.com
 
 $10.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classfication of binary linear codes with various hull dimensions from an improved mass formula, IEEE Transactions on Information Theory, 2023, doi: 10.1109/TIT.2023.3298379.  
 
-$9.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Optimal quaternary linear codes with one-dimensional Hermitian hull and related EAQECCs, Quantum Information Processing, 2023, 22(10): 388.  
+$9.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, On Toeplitz codes of index $t$ and isometry codes, Discrete Mathematics, 2023, 346(9): 113484.  
 
-$8.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, On Toeplitz codes of index $t$ and isometry codes, Discrete Mathematics, 2023, 346(9): 113484.  
+$8.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Juan Wang, An improved method for constructing formally self-dual codes with small hulls, Designs, Codes and Cryptography, 2023, 91(7): 2563-2583.  
 
-$7.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Juan Wang, An improved method for constructing formally self-dual codes with small hulls, Designs, Codes and Cryptography, 2023, 91(7): 2563-2583.  
+$7.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Optimal quaternary linear codes with one-dimensional Hermitian hull and related EAQECCs, Quantum Information Processing, 2023, 22(10): 388.  
 
 $6.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Two infinite families of two-weight codes over $\mathbb{Z}_{2^m}$, Journal of Applied Mathematics and Computing, 2023, 69(1): 201–218.  
 
