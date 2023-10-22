@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "yanglimath"
+title: "李洋(Yang Li)"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
