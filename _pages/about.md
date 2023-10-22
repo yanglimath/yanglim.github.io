@@ -10,7 +10,7 @@ redirect_from:
 
 李洋(Yang Li)
 
-E-mail: xxxxxx@xxx.com
+E-mail: yanglimath@163.com
 
 ### Research directions: Algebraic coding and Cryptography
 
