@@ -37,7 +37,7 @@ $5.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, The hull of two 
 
 $4.$ ${\bf {\small Yang~Li}}$, Yunfei Su, Shixin Zhu, Shitao Li, Minjia Shi, Several classes of Galois self-orthogonal MDS codes and related applications, Finite Fields and Their Applications, 2023, 91: 102267. 
 
-$3.$ Ruhao Wan, ${\bf {\small Yang~Li}}$, Shixin Zhu, New MDS self-dual codes over finite field $\mathcal{F}_{r^2}$, IEEE Transactions on Information Theory, 2023, 69(8): 5009-5016. 
+$3.$ Ruhao Wan, ${\bf {\small Yang~Li}}$, Shixin Zhu, New MDS self-dual codes over finite field $\mathbb{F}_{r^2}$, IEEE Transactions on Information Theory, 2023, 69(8): 5009-5016. 
 
 $2.$ ${\bf {\small Yang~Li}}$, Ruhao Wan, Shixin Zhu, MDS codes with Euclidean and Hermitian hulls of flexible dimensions and their applications to EAQECCs, Quantum Information Processing, 2023, 22(3): 153.  
 
