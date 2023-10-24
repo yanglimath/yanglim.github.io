@@ -31,7 +31,7 @@ $1.$ Shitao Li, ${\bf {\small Yang~Li}}$, Minjia Shi, Shixin Zhu, Characterizati
 
 ## Publication  
 
-$6.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, On Galois hulls of linear codes and new entanglement-assisted quantum error-correcting codes, Discrete Mathematics, to appear. 
+$6.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, On Galois hulls of linear codes and new entanglement-assisted quantum error-correcting codes, Discrete Mathematics, 2024, 347(2): 113760. 
 
 $5.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, The hull of two classical propagation rules and their applications, IEEE Transactions on Information Theory, 2023, 69(10): 6500-6511. 
 
