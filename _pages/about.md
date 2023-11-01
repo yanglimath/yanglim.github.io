@@ -24,14 +24,18 @@ $3.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On $\ell$-MDS co
 
 $2.$ Yun Ding, Shixin Zhu, ${\bf {\small Yang~Li}}$, On Galois self-orthogonal algebraic geometry codes, 2023, https://arxiv.org/abs/2309.01051.  
 
-$1.$ Shitao Li, ${\bf {\small Yang~Li}}$, Minjia Shi, Shixin Zhu, Characterization and mass formulas of symplectic self-orthogonal and LCD codes and their application, 2023, https://arxiv.org/abs/2308.06508.  
+$1.$ Shixin Zhu, ${\bf {\small Yang~Li}}$, Shitao Li, Symplectic self-orthogonal and LCD codes from the Plotkin sum construction, 2023, https://arxiv.org/abs/2308.06508.  
 
 
 
 
 ## Publication  
 
-$6.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, On Galois hulls of linear codes and new entanglement-assisted quantum error-correcting codes, Discrete Mathematics, 2024, 347(2): 113760. 
+2024 
+
+$6.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Linear codes of larger lengths with Galois hulls of arbitrary dimensions and related entanglement-assisted quantum error-correcting codes, Discrete Mathematics, 2024, 347(2): 113760. 
+
+2023
 
 $5.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, The hull of two classical propagation rules and their applications, IEEE Transactions on Information Theory, 2023, 69(10): 6500-6511. 
 
