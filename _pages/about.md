@@ -20,6 +20,8 @@ E-mail: yanglimath@163.com
 
 ## Preprints
 
+$4.$ Dengcheng Xie, Shixin Zhu, ${\bf {\small Yang~Li}}$, New ternary self-orthogonal codes and related LCD codes from weakly regular plateaued functions, 2023, https://arxiv.org/abs/2312.04261. 
+
 $3.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On $\ell$-MDS codes and a conjecture on infinite families of $1$-MDS codes, 2023, https://arxiv.org/abs/2310.04778. 
 
 $2.$ Yun Ding, Shixin Zhu, ${\bf {\small Yang~Li}}$, On Galois self-orthogonal algebraic geometry codes, 2023, https://arxiv.org/abs/2309.01051.  
