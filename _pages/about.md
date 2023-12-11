@@ -31,7 +31,7 @@ $1.$ Shixin Zhu, ${\bf {\small Yang~Li}}$, Shitao Li, Symplectic self-orthogonal
 
 
 
-## Publication  
+## Publications  
 
 2024 
 
