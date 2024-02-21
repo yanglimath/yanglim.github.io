@@ -20,6 +20,8 @@ E-mail: yanglimath@163.com
 
 ## Preprints
 
+$5.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, New non-GRS type MDS codes and NMDS codes, 2024, https://arxiv.org/abs/2401.04360.  
+
 $4.$ Dengcheng Xie, Shixin Zhu, ${\bf {\small Yang~Li}}$, New ternary self-orthogonal codes and related LCD codes from weakly regular plateaued functions, 2023, https://arxiv.org/abs/2312.04261. 
 
 $3.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On $\ell$-MDS codes and a conjecture on infinite families of $1$-MDS codes, 2023, https://arxiv.org/abs/2310.04778. 
@@ -34,6 +36,8 @@ $1.$ Shixin Zhu, ${\bf {\small Yang~Li}}$, Shitao Li, Symplectic self-orthogonal
 ## Publications  
 
 2024 
+
+$7.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Yanhui Zhang, Several families of MDS QECCs and MDS EAQECCs from Hermitian self-orthogonal GRS codes, 2024, to appear in Quantum Information Processing.  
 
 $6.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Linear codes of larger lengths with Galois hulls of arbitrary dimensions and related entanglement-assisted quantum error-correcting codes, Discrete Mathematics, 2024, 347(2): 113760. 
 
