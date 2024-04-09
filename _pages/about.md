@@ -20,15 +20,14 @@ E-mail: yanglimath@163.com
 
 ## Preprints
 
-$5.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, New non-GRS type MDS codes and NMDS codes, 2024, https://arxiv.org/abs/2401.04360.  
+$4.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, New non-GRS type MDS codes and NMDS codes, 2024, https://arxiv.org/abs/2401.04360.  
 
-$4.$ Dengcheng Xie, Shixin Zhu, ${\bf {\small Yang~Li}}$, New ternary self-orthogonal codes and related LCD codes from weakly regular plateaued functions, 2023, https://arxiv.org/abs/2312.04261. 
+$3.$ Dengcheng Xie, Shixin Zhu, ${\bf {\small Yang~Li}}$, New ternary self-orthogonal codes and related LCD codes from weakly regular plateaued functions, 2023, https://arxiv.org/abs/2312.04261. 
 
-$3.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On $\ell$-MDS codes and a conjecture on infinite families of $1$-MDS codes, 2023, https://arxiv.org/abs/2310.04778. 
+$2.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On $\ell$-MDS codes and a conjecture on infinite families of $1$-MDS codes, 2023, https://arxiv.org/abs/2310.04778. 
 
-$2.$ Yun Ding, Shixin Zhu, ${\bf {\small Yang~Li}}$, On Galois self-orthogonal algebraic geometry codes, 2023, https://arxiv.org/abs/2309.01051.  
+$1.$ Yun Ding, Shixin Zhu, ${\bf {\small Yang~Li}}$, On Galois self-orthogonal algebraic geometry codes, 2023, https://arxiv.org/abs/2309.01051.  
 
-$1.$ Shixin Zhu, ${\bf {\small Yang~Li}}$, Shitao Li, Symplectic self-orthogonal and LCD codes from the Plotkin sum construction, 2023, https://arxiv.org/abs/2308.06508.  
 
 
 
@@ -37,7 +36,11 @@ $1.$ Shixin Zhu, ${\bf {\small Yang~Li}}$, Shitao Li, Symplectic self-orthogonal
 
 2024 
 
-$7.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Yanhui Zhang, Several families of MDS QECCs and MDS EAQECCs from Hermitian self-orthogonal GRS codes, 2024, to appear in Quantum Information Processing.  
+$9.$ Shixin Zhu, ${\bf {\small Yang~Li}}$, Shitao Li, Symplectic self-orthogonal and linear complementary dual codes from the Plotkin sum construction, 2023, to appear in Finite Fields and Their Applications. 
+
+$8.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, On symplectic hulls of linear codes and related applications, 2024, to appear in Journal of Applied Mathematics and Computing.  
+
+$7.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Yanhui Zhang, Several families of MDS QECCs and MDS EAQECCs from Hermitian self-orthogonal GRS codes, Quantum Information Processing, 2024, 23(3): 111.  
 
 $6.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Linear codes of larger lengths with Galois hulls of arbitrary dimensions and related entanglement-assisted quantum error-correcting codes, Discrete Mathematics, 2024, 347(2): 113760. 
 
