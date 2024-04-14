@@ -36,7 +36,7 @@ $1.$ Yun Ding, Shixin Zhu*, Xiaoshan Kai, ${\bf {\small Yang~Li}}$, On Galois se
 
 2024 
 
-$9.$ Shixin Zhu, ${\bf {\small Yang~Li}}*$, Shitao Li, Symplectic self-orthogonal and linear complementary dual codes from the Plotkin sum construction, Finite Fields and Their Applications, 
+$9.$ Shixin Zhu, ${\bf {\small Yang~Li}}$*, Shitao Li, Symplectic self-orthogonal and linear complementary dual codes from the Plotkin sum construction, Finite Fields and Their Applications, 
 2024, 96: 102425.
 
 $8.$ ${\bf {\small Yang~Li}}$, Shixin Zhu*, On symplectic hulls of linear codes and related applications, 2024, Journal of Applied Mathematics and Computing. https://doi.org/10.1007/s12190-024-02058-8.   
