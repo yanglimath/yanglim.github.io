@@ -17,7 +17,7 @@ E-mail: yanglimath@163.com
 
 ## Preprints
 
-$4.$ ${\bf {\small Yang~Li}}$, Shixin Zhu*, On $\sigma$ self-orthogonal matrix-product codes associated with Toeplitz matrices, 2024, https://arxiv.org/abs/2405.06292. 
+$4.$ ${\bf {\small Yang~Li}}$, Shixin Zhu*, Edgar Martinez-Moro, On $\sigma$ self-orthogonal matrix-product codes associated with Toeplitz matrices, 2024, https://arxiv.org/abs/2405.06292. 
 
 $3.$ ${\bf {\small Yang~Li}}$, Shixin Zhu*, New non-GRS type MDS codes and NMDS codes, 2024, https://arxiv.org/abs/2401.04360.  
 
