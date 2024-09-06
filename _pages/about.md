@@ -32,6 +32,8 @@ $1.$ Yun Ding, Shixin Zhu, Xiaoshan Kai, ${\bf {\small Yang~Li}}$, On Galois sel
 
 2024 
 
+$12.$ Yun Ding, ${\bf {\small Yang~Li}}$, Shixin Zhu, Four new families of NMDS codes with dimension 4 and their applications,Finite Fields and Their Applications, 2024, 96: 102495.
+
 $11.$ ${\bf {\small Yang~Li}}$, Shitao Li, Shixin Zhu, New and improved formally self-dual codes with small hulls from polynomial four Toeplitz codes, Designs, Codes and Cryptography, 2024, https://doi.org/10.1007/s10623-024-01460-4.
 
 $10.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On $\ell$-MDS codes and a conjecture on infinite families of $1$-MDS codes, IEEE Transactions on Information Theory, 2024. https://doi.org/10.1109/TIT.2024.3402745. 
