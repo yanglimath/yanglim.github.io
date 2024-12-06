@@ -17,7 +17,7 @@ E-mail: yanglimath@163.com
 
 ## Preprints
 
-$4.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On $\sigma$ self-orthogonal matrix-product codes associated with Toeplitz matrices, 2024, https://arxiv.org/abs/2405.06292. 
+$4.$ Shitao Li, Minjia Shi, ${\bf {\small Yang~Li}}$, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.
 
 $3.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, New non-GRS type MDS codes and NMDS codes, 2024, https://arxiv.org/abs/2401.04360.  
 
@@ -31,6 +31,8 @@ $1.$ Yun Ding, Shixin Zhu, Xiaoshan Kai, ${\bf {\small Yang~Li}}$, On Galois sel
 ## Publications  
 
 2024 
+
+$13.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On general self-orthogonal matrix-product codes associated with Toeplitz matrices, Cryptography and Communications, 2024, https://doi.org/10.1007/s12095-024-00763-6.
 
 $12.$ Yun Ding, ${\bf {\small Yang~Li}}$, Shixin Zhu, Four new families of NMDS codes with dimension 4 and their applications, Finite Fields and Their Applications, 2024, 96: 102495.
 
