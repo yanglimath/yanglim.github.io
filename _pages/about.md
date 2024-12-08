@@ -30,17 +30,19 @@ $1.$ Yun Ding, Shixin Zhu, Xiaoshan Kai, ${\bf {\small Yang~Li}}$, On Galois sel
 
 ## Publications  
 
-2024 
+2025
 
 $13.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On general self-orthogonal matrix-product codes associated with Toeplitz matrices, Cryptography and Communications, 2024, https://doi.org/10.1007/s12095-024-00763-6.
 
+2024 
+
 $12.$ Yun Ding, ${\bf {\small Yang~Li}}$, Shixin Zhu, Four new families of NMDS codes with dimension 4 and their applications, Finite Fields and Their Applications, 2024, 96: 102495.
 
-$11.$ ${\bf {\small Yang~Li}}$, Shitao Li, Shixin Zhu, New and improved formally self-dual codes with small hulls from polynomial four Toeplitz codes, Designs, Codes and Cryptography, 2024, https://doi.org/10.1007/s10623-024-01460-4.
+$11.$ ${\bf {\small Yang~Li}}$, Shitao Li, Shixin Zhu, New and improved formally self-dual codes with small hulls from polynomial four Toeplitz codes, Designs, Codes and Cryptography, 2024, 92: 3723-3751.
 
-$10.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On $\ell$-MDS codes and a conjecture on infinite families of $1$-MDS codes, IEEE Transactions on Information Theory, 2024. https://doi.org/10.1109/TIT.2024.3402745. 
+$10.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On $\ell$-MDS codes and a conjecture on infinite families of $1$-MDS codes, IEEE Transactions on Information Theory, 2024, 70(10): 6899-6911.
 
-$9.$ Shixin Zhu, ${\bf {\small Yang~Li}}$ (Corresponding author), Shitao Li, Symplectic self-orthogonal and linear complementary dual codes from the Plotkin sum construction, Finite Fields and Their Applications, 2024, 96: 102425.
+$9.$ Shixin Zhu, ${\bf {\small Yang~Li}*}$, Shitao Li, Symplectic self-orthogonal and linear complementary dual codes from the Plotkin sum construction, Finite Fields and Their Applications, 2024, 96: 102425.
 
 $8.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, On symplectic hulls of linear codes and related applications, Journal of Applied Mathematics and Computing, 2024, 70: 2603–2622.     
 
