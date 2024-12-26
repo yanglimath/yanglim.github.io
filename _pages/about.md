@@ -32,6 +32,8 @@ $1.$ Yun Ding, Shixin Zhu, Xiaoshan Kai, ${\bf {\small Yang~Li}}$, On Galois sel
 
 2025
 
+$14.$  Juan Wang, Shitao Li, ${\bf {\small Yang~Li}}$, Yan Liu, Asymptotically good four Toeplitz codes and derived new formally self-dual LCD codes, Journal of Applied Mathematics and Computing, https://doi.org/10.1007/s12190-024-02326-7.
+
 $13.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On general self-orthogonal matrix-product codes associated with Toeplitz matrices, Cryptography and Communications, 2024, https://doi.org/10.1007/s12095-024-00763-6.
 
 2024 
