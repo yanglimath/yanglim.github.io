@@ -70,3 +70,24 @@ $2.$ ${\bf {\small Yang~Li}}$, Ruhao Wan, Shixin Zhu, MDS codes with Euclidean a
 $1.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Ping Li, On MDS codes with Galois hulls of arbitrary dimensions, Cryptography and Communications, 2023, 15(3): 565-587.
 
 
+
+
+## Reviewers of 
+
+IEEE Transactions on Information Theory 
+
+Cryptography and Communications
+
+Quantum Information Processing
+
+Journal of Applied Mathematics and Computing
+
+Chinese Journal of Electronics
+
+AIMS Mathematics
+
+MATHEMATICAL REVIEWS
+
+
+
+
