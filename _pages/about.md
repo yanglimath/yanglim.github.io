@@ -11,11 +11,14 @@ redirect_from:
 
 E-mail: yanglimath@163.com
 
-### Research directions: Algebraic Coding Theory, Quantum Codes, Information Theory
+### Research directions: Coding Theory, Quantum Code, Information Theory
 
 
 
 ## Preprints
+
+$5.$ Cong Yu, Shixin Zhu, Hao Chen, ${\bf {\small Yang~Li}}$, Xiuyu Zhang, New record-breaking binary linear codes constructed from group codes, 2024, 
+https://doi.org/10.48550/arXiv.2412.15551.
 
 $4.$ Shitao Li, Minjia Shi, ${\bf {\small Yang~Li}}$, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.
 
@@ -31,6 +34,8 @@ $1.$ Yun Ding, Shixin Zhu, Xiaoshan Kai, ${\bf {\small Yang~Li}}$, On Galois sel
 ## Publications  
 
 2025
+
+$15.$ Dengcheng Xie, ${\bf {\small Yang~Li}}$, Shixin Zhu, Yuanting Zhang, The dimensions of Galois hulls of linear codes derived from an improved propagation rule and related applications, to appear in Journal of Applied Mathematics and Computing.
 
 $14.$  Juan Wang, Shitao Li, ${\bf {\small Yang~Li}}$, Yan Liu, Asymptotically good four Toeplitz codes and derived new formally self-dual LCD codes, Journal of Applied Mathematics and Computing, https://doi.org/10.1007/s12190-024-02326-7.
 
