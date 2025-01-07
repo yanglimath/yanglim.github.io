@@ -33,7 +33,7 @@ $1.$ Yun Ding, Shixin Zhu, Xiaoshan Kai, ${\bf {\small Yang~Li}}$, On Galois sel
 
 ## Publications  
 
-# 2025
+#### 2025
 
 $15.$ Dengcheng Xie, ${\bf {\small Yang~Li}}$, Shixin Zhu, Yuanting Zhang, The dimensions of Galois hulls of linear codes derived from an improved propagation rule and related applications, to appear in Journal of Applied Mathematics and Computing.
 
@@ -41,7 +41,7 @@ $14.$  Juan Wang, Shitao Li, ${\bf {\small Yang~Li}}$, Yan Liu, Asymptotically g
 
 $13.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On general self-orthogonal matrix-product codes associated with Toeplitz matrices, Cryptography and Communications, 2024, https://doi.org/10.1007/s12095-024-00763-6.
 
-# 2024 
+#### 2024 
 
 $12.$ Yun Ding, ${\bf {\small Yang~Li}}$, Shixin Zhu, Four new families of NMDS codes with dimension 4 and their applications, Finite Fields and Their Applications, 2024, 96: 102495.
 
@@ -57,7 +57,7 @@ $7.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Yanhui Zhang, Several families of MDS
 
 $6.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Linear codes of larger lengths with Galois hulls of arbitrary dimensions and related entanglement-assisted quantum error-correcting codes, Discrete Mathematics, 2024, 347(2): 113760. 
 
-# 2023
+#### 2023
 
 $5.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, The hull of two classical propagation rules and their applications, IEEE Transactions on Information Theory, 2023, 69(10): 6500-6511. 
 
