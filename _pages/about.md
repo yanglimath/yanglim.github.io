@@ -84,6 +84,8 @@ Journal of Applied Mathematics and Computing
 
 Chinese Journal of Electronics
 
+Applicable Algebra in Engineering, Communication and Computing
+
 AIMS Mathematics
 
 MATHEMATICAL REVIEWS
