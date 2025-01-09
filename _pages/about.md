@@ -18,7 +18,7 @@ E-mail: yanglimath@163.com
 ## Preprints
 
 $5.$ Cong Yu, Shixin Zhu, Hao Chen, ${\bf {\small Yang~Li}}$, Xiuyu Zhang, New record-breaking binary linear codes constructed from group codes, 2024, 
-https://doi.org/10.48550/arXiv.2412.15551.
+https://arxiv.org/abs/2412.15551.
 
 $4.$ Shitao Li, Minjia Shi, ${\bf {\small Yang~Li}}$, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.
 
