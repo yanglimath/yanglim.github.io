@@ -35,7 +35,7 @@ $1.$ Yun Ding, Shixin Zhu, Xiaoshan Kai, ${\bf {\small Yang~Li}}$, On Galois sel
 
 #### 2025
 
-$15.$ Dengcheng Xie, ${\bf {\small Yang~Li}}$, Shixin Zhu, Yuanting Zhang, The dimensions of Galois hulls of linear codes derived from an improved propagation rule and related applications, to appear in Journal of Applied Mathematics and Computing.
+$15.$ Dengcheng Xie, ${\bf {\small Yang~Li}}$, Shixin Zhu, Yuanting Zhang, The dimensions of Galois hulls of linear codes derived from an improved propagation rule and related applications, Journal of Applied Mathematics and Computing, https://doi.org/10.1007/s12190-025-02375-6.
 
 $14.$  Juan Wang, Shitao Li, ${\bf {\small Yang~Li}}$, Yan Liu, Asymptotically good four Toeplitz codes and derived new formally self-dual LCD codes, Journal of Applied Mathematics and Computing, https://doi.org/10.1007/s12190-024-02326-7.
 
@@ -74,7 +74,11 @@ $1.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Ping Li, On MDS codes with Galois hul
 
 ## Reviewers of 
 
+MATHEMATICAL REVIEWS
+
 IEEE Transactions on Information Theory 
+
+Designs, Codes and Cryptography
 
 Cryptography and Communications
 
@@ -88,7 +92,6 @@ Applicable Algebra in Engineering, Communication and Computing
 
 AIMS Mathematics
 
-MATHEMATICAL REVIEWS
 
 
 
