@@ -33,7 +33,7 @@ $1.$ Yun Ding, Shixin Zhu, Xiaoshan Kai, ${\bf {\small Yang~Li}}$, On Galois sel
 
 #### 2025
 
-$16.$ $2.$ Dengcheng Xie, Shixin Zhu, ${\bf {\small Yang~Li}}$, New ternary self-orthogonal codes and related LCD codes from weakly regular plateaued functions, Advances in Mathematics of Communications, https://doi.org/10.3934/amc.2025004. 
+$16.$ Dengcheng Xie, Shixin Zhu, ${\bf {\small Yang~Li}}$, New ternary self-orthogonal codes and related LCD codes from weakly regular plateaued functions, Advances in Mathematics of Communications, https://doi.org/10.3934/amc.2025004. 
 
 $15.$ Dengcheng Xie, ${\bf {\small Yang~Li}}$, Shixin Zhu, Yuanting Zhang, The dimensions of Galois hulls of linear codes derived from an improved propagation rule and related applications, Journal of Applied Mathematics and Computing, https://doi.org/10.1007/s12190-025-02375-6.
 
