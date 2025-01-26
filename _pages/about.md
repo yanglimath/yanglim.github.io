@@ -17,14 +17,12 @@ E-mail: yanglimath@163.com
 
 ## Preprints
 
-$5.$ Cong Yu, Shixin Zhu, Hao Chen, ${\bf {\small Yang~Li}}$, Xiuyu Zhang, New record-breaking binary linear codes constructed from group codes, 2024, 
+$4.$ Cong Yu, Shixin Zhu, Hao Chen, ${\bf {\small Yang~Li}}$, Xiuyu Zhang, New record-breaking binary linear codes constructed from group codes, 2024, 
 https://arxiv.org/abs/2412.15551.
 
-$4.$ Shitao Li, Minjia Shi, ${\bf {\small Yang~Li}}$, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.
+$3.$ Shitao Li, Minjia Shi, ${\bf {\small Yang~Li}}$, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.
 
-$3.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, New non-GRS type MDS codes and NMDS codes, 2024, https://arxiv.org/abs/2401.04360.  
-
-$2.$ Dengcheng Xie, Shixin Zhu, ${\bf {\small Yang~Li}}$, New ternary self-orthogonal codes and related LCD codes from weakly regular plateaued functions, 2023, https://arxiv.org/abs/2312.04261. 
+$2.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, New non-GRS type MDS codes and NMDS codes, 2024, https://arxiv.org/abs/2401.04360.  
 
 $1.$ Yun Ding, Shixin Zhu, Xiaoshan Kai, ${\bf {\small Yang~Li}}$, On Galois self-orthogonal algebraic geometry codes, 2023, https://arxiv.org/abs/2309.01051.  
 
@@ -34,6 +32,8 @@ $1.$ Yun Ding, Shixin Zhu, Xiaoshan Kai, ${\bf {\small Yang~Li}}$, On Galois sel
 ## Publications  
 
 #### 2025
+
+$16.$ $2.$ Dengcheng Xie, Shixin Zhu, ${\bf {\small Yang~Li}}$, New ternary self-orthogonal codes and related LCD codes from weakly regular plateaued functions, Advances in Mathematics of Communications, https://doi.org/10.3934/amc.2025004. 
 
 $15.$ Dengcheng Xie, ${\bf {\small Yang~Li}}$, Shixin Zhu, Yuanting Zhang, The dimensions of Galois hulls of linear codes derived from an improved propagation rule and related applications, Journal of Applied Mathematics and Computing, https://doi.org/10.1007/s12190-025-02375-6.
 
