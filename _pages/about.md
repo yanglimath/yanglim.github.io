@@ -34,8 +34,9 @@ $1.$ Yun Ding, Shixin Zhu, Xiaoshan Kai, ${\bf {\small Yang~Li}}$, On Galois sel
 
 #### 2025
 
-$17.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Zhonghua Sun, Covering radii and deep holes of two classes of extended twisted GRS codes
-and their applications, To appear in IEEE Transactions on Information Theory, 2025.
+$18.$ Conghui Xie, Hao Chen, Haiyan Zhou, ${\bf {\small Yang~Li}}$, Huimin Lao, Optimal, Almost optimal few-weight linear codes and related quantum codes, IEEE Transactions on Information Theory, https://doi.org/10.1109/TIT.2025.3557315.
+
+$17.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Zhonghua Sun, Covering radii and deep holes of two classes of extended twisted GRS codes and their applications, IEEE Transactions on Information Theory, https://doi.org/10.1109/TIT.2025.3541799.
 
 $16.$ Dengcheng Xie, Shixin Zhu, ${\bf {\small Yang~Li}}$, New ternary self-orthogonal codes and related LCD codes from weakly regular plateaued functions, Advances in Mathematics of Communications, https://doi.org/10.3934/amc.2025004. 
 
@@ -43,7 +44,7 @@ $15.$ Dengcheng Xie, ${\bf {\small Yang~Li}}$, Shixin Zhu, Yuanting Zhang, The d
 
 $14.$  Juan Wang, Shitao Li, ${\bf {\small Yang~Li}}$, Yan Liu, Asymptotically good four Toeplitz codes and derived new formally self-dual LCD codes, Journal of Applied Mathematics and Computing, https://doi.org/10.1007/s12190-024-02326-7.
 
-$13.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On general self-orthogonal matrix-product codes associated with Toeplitz matrices, Cryptography and Communications, 2024, https://doi.org/10.1007/s12095-024-00763-6.
+$13.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On general self-orthogonal matrix-product codes associated with Toeplitz matrices, Cryptography and Communications, 2025, 17: 397–420.
 
 #### 2024 
 
