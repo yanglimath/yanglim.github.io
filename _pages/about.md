@@ -42,7 +42,7 @@ $16.$ Dengcheng Xie, Shixin Zhu, ${\bf {\small Yang~Li}}$, New ternary self-orth
 
 $15.$ Dengcheng Xie, ${\bf {\small Yang~Li}}$, Shixin Zhu, Yuanting Zhang, The dimensions of Galois hulls of linear codes derived from an improved propagation rule and related applications, Journal of Applied Mathematics and Computing, https://doi.org/10.1007/s12190-025-02375-6.
 
-$14.$  Juan Wang, Shitao Li, ${\bf {\small Yang~Li}}$, Yan Liu, Asymptotically good four Toeplitz codes and derived new formally self-dual LCD codes, Journal of Applied Mathematics and Computing, https://doi.org/10.1007/s12190-024-02326-7.
+$14.$  Juan Wang, Shitao Li, ${\bf {\small Yang~Li}}$, Yan Liu, Asymptotically good four Toeplitz codes and derived new formally self-dual LCD codes, Journal of Applied Mathematics and Computing, 2025, 71: 2505–2525.
 
 $13.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Edgar Martinez-Moro, On general self-orthogonal matrix-product codes associated with Toeplitz matrices, Cryptography and Communications, 2025, 17: 397–420.
 
