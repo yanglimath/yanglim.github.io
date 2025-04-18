@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-E-mail: yanglimath@163.com
+E-mail: yanglimath@163.com, li-y@ntu.edu.cn
 
 ### Research directions: Coding Theory, Quantum Code, Information Theory
 
@@ -17,15 +17,13 @@ E-mail: yanglimath@163.com
 
 ## Preprints
 
-$4.$ Cong Yu, Shixin Zhu, Hao Chen, ${\bf {\small Yang~Li}}$, Xiuyu Zhang, New record-breaking binary linear codes constructed from group codes, 2024, 
+$3.$ Cong Yu, Shixin Zhu, Hao Chen, ${\bf {\small Yang~Li}}$, Xiuyu Zhang, New record-breaking binary linear codes constructed from group codes, 2024, 
 https://arxiv.org/abs/2412.15551.
 
-$3.$ Shitao Li, Minjia Shi, ${\bf {\small Yang~Li}}$, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.
+$2.$ Shitao Li, Minjia Shi, ${\bf {\small Yang~Li}}$, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.
 
-$2.$ ${\bf {\small Yang~Li}}$, Zhonghua Sun, Shixin Zhu, A family of linear codes that are either new non-GRS MDS codes or NMDS
-codes, 2024, https://arxiv.org/abs/2401.04360.  
-
-$1.$ Yun Ding, Shixin Zhu, Xiaoshan Kai, ${\bf {\small Yang~Li}}$, On Galois self-orthogonal algebraic geometry codes, 2023, https://arxiv.org/abs/2309.01051.  
+$1.$ ${\bf {\small Yang~Li}}$, Zhonghua Sun, Shixin Zhu, A family of linear codes that are either new non-GRS MDS codes or NMDS
+codes, 2024, https://arxiv.org/abs/2401.04360.   
 
 
 
@@ -90,6 +88,8 @@ Cryptography and Communications
 Quantum Information Processing
 
 Journal of Applied Mathematics and Computing
+
+Computational and Applied Mathematics
 
 Chinese Journal of Electronics
 
