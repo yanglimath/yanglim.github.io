@@ -34,11 +34,11 @@ codes, 2024, https://arxiv.org/abs/2401.04360.
 
 $18.$ Conghui Xie, Hao Chen, Haiyan Zhou, ${\bf {\small Yang~Li}}$, Huimin Lao, Optimal, Almost optimal few-weight linear codes and related quantum codes, IEEE Transactions on Information Theory, https://doi.org/10.1109/TIT.2025.3557315.
 
-$17.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Zhonghua Sun, Covering radii and deep holes of two classes of extended twisted GRS codes and their applications, IEEE Transactions on Information Theory, https://doi.org/10.1109/TIT.2025.3541799.
+$17.$ Dengcheng Xie, ${\bf {\small Yang~Li}}$, Shixin Zhu, Yuanting Zhang, The dimensions of Galois hulls of linear codes derived from an improved propagation rule and related applications, Journal of Applied Mathematics and Computing, https://doi.org/10.1007/s12190-025-02375-6.
 
-$16.$ Dengcheng Xie, Shixin Zhu, ${\bf {\small Yang~Li}}$, New ternary self-orthogonal codes and related LCD codes from weakly regular plateaued functions, Advances in Mathematics of Communications, 2025, 19(2): 406-415. 
+$16.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Zhonghua Sun, Covering radii and deep holes of two classes of extended twisted GRS codes and their applications, IEEE Transactions on Information Theory, 2025, 71(5): 3516-3530.
 
-$15.$ Dengcheng Xie, ${\bf {\small Yang~Li}}$, Shixin Zhu, Yuanting Zhang, The dimensions of Galois hulls of linear codes derived from an improved propagation rule and related applications, Journal of Applied Mathematics and Computing, https://doi.org/10.1007/s12190-025-02375-6.
+$15.$ Dengcheng Xie, Shixin Zhu, ${\bf {\small Yang~Li}}$, New ternary self-orthogonal codes and related LCD codes from weakly regular plateaued functions, Advances in Mathematics of Communications, 2025, 19(2): 406-415. 
 
 $14.$  Juan Wang, Shitao Li, ${\bf {\small Yang~Li}}$, Yan Liu, Asymptotically good four Toeplitz codes and derived new formally self-dual LCD codes, Journal of Applied Mathematics and Computing, 2025, 71: 2505–2525.
 
