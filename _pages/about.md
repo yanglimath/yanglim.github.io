@@ -9,11 +9,24 @@ redirect_from:
 ---
 
 
-E-mail: yanglimath@163.com, li-y@ntu.edu.cn
+E-mails: li-y@ntu.edu.cn, yanglimath@163.com
 
-### Research directions: Coding Theory, Quantum Code, Information Theory
+## About me 
+In November 2024, I completed my successive master-doctor program at the School of Mathematics, Hefei University of Technology (HFUT, China), under the supervision of Prof. Shixin Zhu. 
+I then continued my visiting scholar experience for about four months under the supervision of Prof. Shixin Zhu. 
+From Arpil 2025, I I worked as a research fellow (postdoc) at Nanyang Technological University, working under the supervision of Prof. San Ling. 
+
+## Research Interests 
+My research interests primarily focus on algebraic coding theory, quantum information theory, and mathematical problems in Cryptography.
 
 
+## Awards
+
+$1.$ Excellent Graduates, Anhui Province, 2021.
+
+$2.$ Doctoral Student Innovation Training Program, Hefei University of Technology, 2023.
+
+$3.$ National Scholarships for Postgraduate Students, Ministry of Education of the People’s Republic of China, 2024.
 
 ## Preprints
 
@@ -77,25 +90,28 @@ $1.$ ${\bf {\small Yang~Li}}$, Shixin Zhu, Ping Li, On MDS codes with Galois hul
 
 ## Reviewers of 
 
-MATHEMATICAL REVIEWS
+MATHEMATICAL REVIEWS 
 
 IEEE Transactions on Information Theory 
 
-Designs, Codes and Cryptography
+Designs, Codes and Cryptography 
 
-Cryptography and Communications
+Cryptography and Communications 
 
 Quantum Information Processing
 
-Journal of Applied Mathematics and Computing
+Journal of Applied Mathematics and Computing 
 
-Computational and Applied Mathematics
+Computational and Applied Mathematics 
 
-Chinese Journal of Electronics
+Chinese Journal of Electronics 
 
 Applicable Algebra in Engineering, Communication and Computing
 
-AIMS Mathematics
+AIMS Mathematics 
+
+
+## Speaker in
 
 
 
