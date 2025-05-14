@@ -14,7 +14,7 @@ E-mails: li-y@ntu.edu.cn, yanglimath@163.com
 ## About me 
 In November 2024, I completed my successive master-doctor program at the School of Mathematics, Hefei University of Technology (HFUT, China), under the supervision of Prof. Shixin Zhu. 
 I then continued my visiting scholar experience for about four months under the supervision of Prof. Shixin Zhu. 
-From Arpil 2025, I I worked as a research fellow (postdoc) at Nanyang Technological University, working under the supervision of Prof. San Ling. 
+From Arpil 2025, I worked as a research fellow (postdoc) at Nanyang Technological University under the supervision of Prof. San Ling. 
 
 ## Research Interests 
 My research interests primarily focus on algebraic coding theory, quantum information theory, and mathematical problems in Cryptography.
