@@ -45,7 +45,7 @@ codes, 2024, https://arxiv.org/abs/2401.04360.
 
 #### 2025
 
-$18.$ Conghui Xie, Hao Chen, Haiyan Zhou, **Yang Li**, Huimin Lao, Optimal, Almost optimal few-weight linear codes and related quantum codes, IEEE Transactions on Information Theory, https://doi.org/10.1109/TIT.2025.3557315.
+$18.$ Conghui Xie, Hao Chen, Haiyan Zhou, **Yang Li**, Huimin Lao, Optimal, Almost optimal few-weight linear codes and related quantum codes, IEEE Transactions on Information Theory, 2025, 71(6): 4250-4259.
 
 $17.$ Dengcheng Xie, **Yang Li**, Shixin Zhu, Yuanting Zhang, The dimensions of Galois hulls of linear codes derived from an improved propagation rule and related applications, Journal of Applied Mathematics and Computing, https://doi.org/10.1007/s12190-025-02375-6.
 
